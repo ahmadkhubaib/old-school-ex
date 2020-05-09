@@ -3,6 +3,7 @@
 ### Requirements
 1. Elixir 1.10.2/Erlang/OTP 22
 2. PostgreSQL 10 installed with default postgres database
+3. in `config/config.exs` change the variable `db` according to your credentials
 
 ### Instructions
 * Install dependencies with `mix deps.get`
